@@ -18,3 +18,6 @@ Finding answer offcourse :)
 
 I first wanted to do it as a caveman with ML and DL but there is a tool from |\_Google\_| called tesseract witch make it much easier.
 
+
+honestly i spent much time on this project and being changing it for a while without Git.
+
